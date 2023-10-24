@@ -1,2 +1,2 @@
 # langchain
-Testing langchain loading Markdown files and embeddings
+Exploring Langchain Using Markdown Files and Embedding and VectorDB
